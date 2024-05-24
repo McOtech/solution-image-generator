@@ -1,0 +1,5 @@
+/demo/*/*.PNG
+/demo/**/*.png
+/demo/*.zip
+*.xlsx
+**/.ipynb_checkpoints
